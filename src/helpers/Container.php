@@ -1,6 +1,6 @@
 <?php
 
-namespace Core\Helpers;
+namespace FreshJones\Core\Helpers;
 
 class Container
 {
