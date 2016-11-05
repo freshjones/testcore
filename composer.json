@@ -1,6 +1,6 @@
 {
 	"name": "freshjones/testcore",
-	"version": "0.3",
+	"version": "1",
 	"autoload": 
     {
         "psr-4": {
