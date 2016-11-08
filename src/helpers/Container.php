@@ -23,7 +23,7 @@ class Container
 
     public function all()
     {
-        return $this->registry;
+        return is_array($this->registry) && !empty($this->registry) ? $this->registry : false;
     }
 
 }
